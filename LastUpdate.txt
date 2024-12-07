@@ -1,1 +1,2 @@
 Nov 15 2024 - Monke Blocks Update
+WARNING: please update to newer version of mod support checker, this one will no longer be supported!
